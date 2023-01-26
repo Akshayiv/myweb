@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    margin: 0;
+
+    }
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+   
+    
+}
+h2{font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+h3{font-family: 'Montserrat', sans-serif;
+   color: #11999E;
+   
+}
+
+
+#huha{
+    background-color: lightblue;
+}
+.mount-cloud2{
+    position: relative;
+    padding-top: 20px;
+    left: 200px;
+}
+.mount-cloud1{
+    position: absolute;
+}
+.profile{
+    margin: 0;
+    padding: 0;
+}
+.h2{
+    margin: 0;
+    padding: 0;
+}
+.footer-link{
+    background-color: #66BFBF;
+}
+.skills{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2rem
+
+}
+.programming{
+    width: 25%;
+    float: left;
+    padding-right: 25px;
+}
+   
+.gaming{
+    width: 25%;
+    float: right;
+    padding-left: 25px;
+}
+.bottom-container{
+    padding: 1.8rem;
+    background-color: #66BFBF;
+    text-decoration: solid #11999E;
+
+    
+    }
+    .akshay{
+        font-size: 18px;
+        font-style:Montserrat;
+        border-style: none;
+        padding-top: 15px;
+        color: #EAF6F6;
+    }
+.contact-me-huha{
+    
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+.contact-me-huha:hover{       background:  #30e3cb;
+        background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+        text-decoration: none;
+      }
+    .contact-me{
+        margin: 3rem auto;
+    }
+    #moda{
+        margin: 3rem auto;
+    }
+    .footer-link{
+        font-weight: bold;
+        font-family: Montserrat;
+        margin: auto 8px;
+        color: #11999E;
+    }
+    hr{
+    
+            width: 15%;
+            border-style: dotted none none;
+            border-width: 7px;
+            border-color:gold
+    
+    }
+    #owo{
+        width: 30%;
+        margin: 5px auto auto;
+    }
